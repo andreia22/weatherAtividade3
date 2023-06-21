@@ -1,0 +1,15 @@
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\bin\Debug\netstandard2.0\Wheather.deps.json
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\bin\Debug\netstandard2.0\Wheather.dll
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\bin\Debug\netstandard2.0\Wheather.pdb
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.csproj.AssemblyReference.cache
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.AssemblyInfoInputs.cache
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.AssemblyInfo.cs
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.csproj.CoreCompileInputs.cache
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.dll
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\refint\Wheather.dll
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.pdb
+C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\ref\Wheather.dll

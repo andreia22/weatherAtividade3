@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/GZb8pCqK7FEFdIdv3DYqY8yWWMIQOqUaj6UX7Jni3Fv38v6c/Kb02plTztX8LTyt6hbQPJ+pSGZO2ZQBx3PXA==",
+  "dgSpecHash": "19R/xW2zOZUWHiWnlJPOFQGNwk95dp/EQviuvFnsAWW5Wh9WFjFElrwsSdRt74mGXb4KI2oG2NcUvF62tJ/jPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\389487\\source\\repos\\weatherAtiv\\Wheather\\Wheather\\Wheather.Android\\Wheather.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\389487\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
