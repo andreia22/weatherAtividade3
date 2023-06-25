@@ -52,6 +52,28 @@
           }
         }
       },
+      "TinyNavigationHelper.Abstraction/1.4.7": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/TinyNavigationHelper.Abstraction.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/TinyNavigationHelper.Abstraction.dll": {}
+        }
+      },
+      "TinyNavigationHelper.Forms/1.4.7": {
+        "type": "package",
+        "dependencies": {
+          "TinyNavigationHelper.Abstraction": "1.4.7",
+          "xamarin.forms": "4.6.0.800"
+        },
+        "compile": {
+          "lib/netstandard2.0/TinyNavigationHelper.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/TinyNavigationHelper.Forms.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.7.0": {
         "type": "package",
         "dependencies": {
@@ -317,6 +339,30 @@
         "version.txt"
       ]
     },
+    "TinyNavigationHelper.Abstraction/1.4.7": {
+      "sha512": "d9cGovylQxnt6xVJ85cQMAEymnGJerDJimRbG/grxcU+fy1h2+2+Od/mKxWmmGXxE4EYjkyvw2KgH2Pgrc7/gw==",
+      "type": "package",
+      "path": "tinynavigationhelper.abstraction/1.4.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/TinyNavigationHelper.Abstraction.dll",
+        "tinynavigationhelper.abstraction.1.4.7.nupkg.sha512",
+        "tinynavigationhelper.abstraction.nuspec"
+      ]
+    },
+    "TinyNavigationHelper.Forms/1.4.7": {
+      "sha512": "E+uy83saLOUhS8tY3gMjt1JQUkHX1Jzd8rTT5K+0NLbucuRK8l/3OHbBt0/ASjgLdGWvDGitNihu7XMtBQXfjg==",
+      "type": "package",
+      "path": "tinynavigationhelper.forms/1.4.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/TinyNavigationHelper.Forms.dll",
+        "tinynavigationhelper.forms.1.4.7.nupkg.sha512",
+        "tinynavigationhelper.forms.nuspec"
+      ]
+    },
     "Xamarin.Essentials/1.7.0": {
       "sha512": "xfUJNxtfMC05VBej7fVUg6Zd9VwM2kqW9LH0tcrSA6IsBTl0EsIGkYUOz1BoKT2rseWW8o3kTi5WH/yZV4GgJw==",
       "type": "package",
@@ -580,28 +626,29 @@
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
       "Newtonsoft.Json >= 13.0.3",
+      "TinyNavigationHelper.Forms >= 1.4.7",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\389487\\.nuget\\packages\\": {},
+    "C:\\Users\\pasqu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\389487\\source\\repos\\weatherAtiv\\Wheather\\Wheather\\Wheather\\Wheather.csproj",
+      "projectUniqueName": "D:\\Repos\\Wheather\\Wheather\\Wheather.csproj",
       "projectName": "Wheather",
-      "projectPath": "C:\\Users\\389487\\source\\repos\\weatherAtiv\\Wheather\\Wheather\\Wheather\\Wheather.csproj",
-      "packagesPath": "C:\\Users\\389487\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\389487\\source\\repos\\weatherAtiv\\Wheather\\Wheather\\Wheather\\obj\\",
+      "projectPath": "D:\\Repos\\Wheather\\Wheather\\Wheather.csproj",
+      "packagesPath": "C:\\Users\\pasqu\\.nuget\\packages\\",
+      "outputPath": "D:\\Repos\\Wheather\\Wheather\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\389487\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pasqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -639,6 +686,10 @@
             "target": "Package",
             "version": "[13.0.3, )"
           },
+          "TinyNavigationHelper.Forms": {
+            "target": "Package",
+            "version": "[1.4.7, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
@@ -659,7 +710,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

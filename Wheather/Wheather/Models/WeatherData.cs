@@ -89,4 +89,5 @@ namespace Wheather.Models
         public double gust { get; set; }
     }
 
+
 }

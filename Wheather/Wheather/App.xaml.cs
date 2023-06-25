@@ -10,6 +10,11 @@ namespace Wheather
         {
             InitializeComponent();
 
+            Bootstrapper.Init();
+            NavigationHelper.Current.SetRootView("MainView", true);
+
+            MainPage = new NavigationPage(new MainView());
+
             MainPage = new MainPage();
         }
 
