@@ -5,6 +5,8 @@ public class MonoPackageManager_Resources {
 		"Wheather.Android.dll",
 		"FormsViewGroup.dll",
 		"Newtonsoft.Json.dll",
+		"TinyNavigationHelper.Abstraction.dll",
+		"TinyNavigationHelper.Forms.dll",
 		"Wheather.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",

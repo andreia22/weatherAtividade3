@@ -17,8 +17,8 @@
 
     <Grid>
         <ScrollView BackgroundColor="Transparent">
-            <FlexLayout BindableLayout.ItemsSource="{Binding Days}"Direction="Column"
-                        
+            <FlexLayout BindableLayout.ItemsSource="{Binding Days}"Direction="Column">
+
                 <FlexLayout.Behaviors>
                     <behaviors:FlexLayoutBehavior />
                 </FlexLayout.Behaviors>

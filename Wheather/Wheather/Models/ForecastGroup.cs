@@ -8,7 +8,6 @@ namespace Wheather.Models
     {
         public ForecastGroup() {
 
-
         }
         public ForecastGroup(IEnumerable<ForecastItem> items)
         {

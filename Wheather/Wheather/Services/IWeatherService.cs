@@ -43,11 +43,11 @@ namespace Wheather.Services
         City = forecast.City;
     }
 
-    {
+    
         var location = await Geolocation.GetLocationAsync();
         var forecast = await weatherService.GetForecast
         (location.Latitude, location.Longitude);
     }
 
-}
+
 
