@@ -4,23 +4,20 @@
  xmlns:controls="clr-namespace:Wheather.Controls"
  x:Class="Wheather.Views.MainView_Phone" Title="{Binding City}">
 
-
-    <RefreshView Command="{Binding Refresh}" IsRefreshing="{Binding IsRefreshing}>
-    <CollectionView ItemsSource="{Binding Days}" IsGrouped="True BackgroundColor="Transparent" 
-    </RefreshView>
+ <RefreshView Command="{Binding Refresh}" IsRefreshing="{Binding IsRefreshing}>
+    <CollectionView ItemsSource="{Binding Days}" IsGrouped="True" BackgroundColor="Transparent">
         <CollectionView.GroupHeaderTemplate>
-        <DataTemplate>
-            <ContentView Padding="15,5"
-                         BackgroundColor="#9F5010">
-                <Label FontAttributes="Bold" TextColor="White"
-                        Text="{Binding DateAsString}"
-                        VerticalOptions="Center"/>
-            </ContentView>
-        </DataTemplate>
-    </CollectionView.GroupHeaderTemplate>
+            <DataTemplate>
+                <ContentView Padding="15,5" BackgroundColor="#9F5010">
+                    <Label FontAttributes="Bold" TextColor="White"
+                            Text="{Binding DateAsString}"
+                            VerticalOptions="Center"/>
+                </ContentView>
+            </DataTemplate>
+        </CollectionView.GroupHeaderTemplate>
     </CollectionView>
-    
-    
+    </RefreshView>
+
     <CollectionView.ItemTemplate>
         <DataTemplate>
             <Grid Padding="15,10" ColumnSpacing="10"

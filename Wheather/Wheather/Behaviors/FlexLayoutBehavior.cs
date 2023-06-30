@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Xamarin.Forms;
 
 namespace Wheather.Behaviors
 {
-    
-        public class FlexLayoutBehavior : Behavior<FlexLayout>
-        {
-            private FlexLayout view;
-        }
+
+    public class FlexLayoutBehavior : Behavior<FlexLayout>
+    {
+        private FlexLayout view;
+    }
 
     private void SetState(VisualElement view, string state)
     {

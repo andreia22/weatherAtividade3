@@ -15,3 +15,5 @@ C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\ne
 C:\Users\389487\source\repos\weatherAtiv\Wheather\Wheather\Wheather\obj\Debug\netstandard2.0\ref\Wheather.dll
 D:\Repos\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.csproj.AssemblyReference.cache
 D:\Repos\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\repositorio\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.csproj.AssemblyReference.cache
+D:\Documentos\repositorio\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.GeneratedMSBuildEditorConfig.editorconfig
