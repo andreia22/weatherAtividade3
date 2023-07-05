@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Wheather.Views.MainView.xaml", "Views/MainView.xaml", typeof(global::Weather.Views.MainView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Wheather.Views.MainView.xaml", "Views/MainView.xaml", typeof(global::Wheather.Views.MainView))]
 
-namespace Weather.Views {
+namespace Wheather.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\MainView.xaml")]

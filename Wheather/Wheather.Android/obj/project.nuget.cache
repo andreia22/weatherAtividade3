@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pmAyB8P4jS2eh+L9sGdvCbbzvGEVovuoBaaGmQMChdMOOH0DOTccnqedKlxZKQUgCos/qEmlRNWiDrAg6h1cvg==",
+  "dgSpecHash": "dNQ/pPW6OeiGBbfyn/b310v52AYKXt14eTfnA2JQ5Hx61GpPRoeeGECL/Ok8DaO+CHS5aEm0ppFk/Pm7zCt8/w==",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\repositorio\\Wheather\\Wheather.Android\\Wheather.Android.csproj",
+  "projectFilePath": "D:\\Documentos\\rep\\Wheather\\Wheather.Android\\Wheather.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

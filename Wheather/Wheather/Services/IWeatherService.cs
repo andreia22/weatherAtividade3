@@ -6,18 +6,23 @@ using System.Text;
 using System.Threading.Tasks;
 using Wheather.Models;
 using Xamarin.Essentials;
-using static Wheather.Models.WeatherData;
+
 
 namespace Wheather.Services
 {
-    internal interface IWeatherService
+    public interface IWeatherService
     {
         Task<Forecast> GetForecast(double latitude, double longitude);
 
     }
     public async Task LoadData()
+    { 
+         var location = await Geolocation.GetLocationAsync();
+         var forecast = await weatherService.GetForecast
+    (location.Latitude, location.Longitude);
+}
 
-    {
+
         var itemGroups = new List<ForecastGroup>();
         foreach (var item in forecast.Items)
         {
@@ -44,10 +49,7 @@ namespace Wheather.Services
     }
 
     
-        var location = await Geolocation.GetLocationAsync();
-        var forecast = await weatherService.GetForecast
-        (location.Latitude, location.Longitude);
-    }
+       
 
 
 

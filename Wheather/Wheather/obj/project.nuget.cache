@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PVWn02uAZTki/HWOVvNLhazq7fiYe85vGgGIqCMy0V2gZKjd4JTK+hTYr4T2MWVRkxk0HC+B94IMTxS+7tfyZA==",
+  "dgSpecHash": "ADPIbQ8Lhe57vDCEGJXcJEHamdxlODLFNR2MYLQy/PQT6v/3gQK5BsCUs4Uv77QdG2m5pghxEGsdQjmDO60n/A==",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\repositorio\\Wheather\\Wheather\\Wheather.csproj",
+  "projectFilePath": "D:\\Documentos\\rep\\Wheather\\Wheather\\Wheather.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

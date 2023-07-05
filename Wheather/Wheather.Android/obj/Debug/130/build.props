@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638237357410219843
+_nugetassetstimestamp=638239909369521589
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=d:\documentos\repositorio\wheather\wheather.android\wheather.android.csproj
+projectfullpath=d:\documentos\rep\wheather\wheather.android\wheather.android.csproj

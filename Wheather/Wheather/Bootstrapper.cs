@@ -1,19 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Autofac;
+using TinyNavigationHelper.Forms;
 using Wheather.Services;
 using Wheather.ViewModels;
 using Wheather.Views;
+using Xamarin.Forms;
 
 namespace Wheather
 {
-    internal class Bootstrapper
+    public class Bootstrapper
     {
         public static void Init()
-
-
         {
-
             var navigation = new FormsNavigationHelper();
             if (Device.Idiom == TargetIdiom.Phone)
             {
@@ -25,14 +22,17 @@ namespace Wheather
                 navigation.RegisterView("MainView", typeof(MainView));
             }
 
+
+
+
             var containerBuilder = new ContainerBuilder();
-            containerBuilder.RegisterType
-            <OpenWeatherMapWeatherService>().As
-            <IWeatherService>();
+            containerBuilder.RegisterType<OpenWeatherMapWeatherService>().As<IWeatherService>();
             containerBuilder.RegisterType<MainViewModel>();
+
             var container = containerBuilder.Build();
             Resolver.Initialize(container);
         }
     }
-
 }
+
+

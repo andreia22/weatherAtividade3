@@ -638,11 +638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\repositorio\\Wheather\\Wheather\\Wheather.csproj",
+      "projectUniqueName": "D:\\Documentos\\rep\\Wheather\\Wheather\\Wheather.csproj",
       "projectName": "Wheather",
-      "projectPath": "D:\\Documentos\\repositorio\\Wheather\\Wheather\\Wheather.csproj",
+      "projectPath": "D:\\Documentos\\rep\\Wheather\\Wheather\\Wheather.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\repositorio\\Wheather\\Wheather\\obj\\",
+      "outputPath": "D:\\Documentos\\rep\\Wheather\\Wheather\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

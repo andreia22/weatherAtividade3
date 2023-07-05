@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Wheather.ViewModels
 {
-    internal class ViewModel : INotifyPropertyChanged
+    public class ViewModel : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
         protected void Set<T>(ref T field, T newValue,

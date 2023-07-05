@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Text;
 using System.Threading.Tasks;
 using Wheather.Models;
-using Xamarin.Forms.Shapes;
-using Xamarin.Forms;
 using Newtonsoft.Json;
 using System.Net.Http;
 namespace Wheather.Services
@@ -18,10 +14,11 @@ namespace Wheather.Services
         longitude)
         {
             var language = CultureInfo.CurrentUICulture.TwoLetterISOLanguageName;
-            var apiKey = "{AddYourApiKeyHere}";
+            var apiKey = "{dd24784b34b05821e296aa47ce47e318}";
             var uri = $"https://api.openweathermap.org/data/2.5/forecast? " +
             $"lat={latitude}&lon={longitude}&units=metric&lang= " +
             $"{language}&appid={apiKey}";
+
 
             var httpClient = new HttpClient();
             var result = await httpClient.GetStringAsync(uri);

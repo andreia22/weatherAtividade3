@@ -1,4 +1,5 @@
 ﻿using System;
+using Wheather.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -11,7 +12,7 @@ namespace Wheather
             InitializeComponent();
 
             Bootstrapper.Init();
-            NavigationHelper.Current.SetRootView("MainView", true);
+            
 
             MainPage = new NavigationPage(new MainView());
 

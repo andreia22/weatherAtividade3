@@ -3505,11 +3505,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\repositorio\\Wheather\\Wheather.Android\\Wheather.Android.csproj",
+      "projectUniqueName": "D:\\Documentos\\rep\\Wheather\\Wheather.Android\\Wheather.Android.csproj",
       "projectName": "Wheather.Android",
-      "projectPath": "D:\\Documentos\\repositorio\\Wheather\\Wheather.Android\\Wheather.Android.csproj",
+      "projectPath": "D:\\Documentos\\rep\\Wheather\\Wheather.Android\\Wheather.Android.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\repositorio\\Wheather\\Wheather.Android\\obj\\",
+      "outputPath": "D:\\Documentos\\rep\\Wheather\\Wheather.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3530,8 +3530,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "D:\\Documentos\\repositorio\\Wheather\\Wheather\\Wheather.csproj": {
-              "projectPath": "D:\\Documentos\\repositorio\\Wheather\\Wheather\\Wheather.csproj"
+            "D:\\Documentos\\rep\\Wheather\\Wheather\\Wheather.csproj": {
+              "projectPath": "D:\\Documentos\\rep\\Wheather\\Wheather\\Wheather.csproj"
             }
           }
         }

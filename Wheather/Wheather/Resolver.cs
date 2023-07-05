@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿
 using System.ComponentModel;
-using System.Text;
+using Autofac;
 
 namespace Wheather
 {
-    internal class Resolver
+    public class Resolver
     {
         private static IContainer container;
         public static void Initialize(IContainer container)

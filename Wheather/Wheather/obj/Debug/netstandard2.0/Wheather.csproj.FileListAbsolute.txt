@@ -17,3 +17,12 @@ D:\Repos\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.csproj.AssemblyRefe
 D:\Repos\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.GeneratedMSBuildEditorConfig.editorconfig
 D:\Documentos\repositorio\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.csproj.AssemblyReference.cache
 D:\Documentos\repositorio\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\rep\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.csproj.AssemblyReference.cache
+D:\Documentos\rep\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\rep\Wheather\Wheather\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documentos\rep\Wheather\Wheather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documentos\rep\Wheather\Wheather\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+D:\Documentos\rep\Wheather\Wheather\obj\Debug\netstandard2.0\Views\MainView_Phone.xaml.g.cs
+D:\Documentos\rep\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.AssemblyInfoInputs.cache
+D:\Documentos\rep\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.AssemblyInfo.cs
+D:\Documentos\rep\Wheather\Wheather\obj\Debug\netstandard2.0\Wheather.csproj.CoreCompileInputs.cache
